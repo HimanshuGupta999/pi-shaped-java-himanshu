@@ -1,4 +1,4 @@
-# Aman Jha
+# Himanshu Gupta
 
 ## 📅 Day 2 - Spring Cloud Gateway & Config Server
 
